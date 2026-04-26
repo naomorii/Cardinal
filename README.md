@@ -1,5 +1,7 @@
 Sword Art Online App Launcher for Android
 
+Swipe down to open the launcher
+
 <img width="230" height="512" alt="4dd0e330-d512-4dd5-9c4e-0c1dee3e674a" src="https://github.com/user-attachments/assets/8cdf6ecd-09c0-4650-99df-3376065a85b4" />
 <img width="230" height="512" alt="0ce2ccb9-cb2f-4432-9d91-d86f904f14c9 (1)" src="https://github.com/user-attachments/assets/ceb1c1fe-fd04-4e21-9cab-dcb873fb952f" />
 <img width="230" height="512" alt="2c19ad6b-07f3-41d6-8723-4c9b0fda004a" src="https://github.com/user-attachments/assets/1fca4d38-b4de-4482-a3c7-b3eb7f5061cb" />

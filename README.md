@@ -46,6 +46,22 @@ Screenshots
 
 The wallpapers displayed here are not included in the app.
 
+
+Changelog
+-----
+
+v1.0 - Creation of the launcher
+    New functionalities :
+    - custom launcher menu
+    - custom drawer menu
+    - customization of the appearance and actions
+v2.0 - Quick menu
+    Bugfix
+    New functionalities :
+    - quick menu
+    - customization of the quick menu
+
+
 Credits
 -----
 

@@ -56,6 +56,7 @@ v1.0 - Creation of the launcher
     - custom launcher menu
     - custom drawer menu
     - customization of the appearance and actions
+    
 v2.0 - Quick menu
 
     Bugfix
@@ -63,6 +64,12 @@ v2.0 - Quick menu
     - quick menu
     - customization of the quick menu
 
+v3.0 - Quick menu
+
+    Bugfix
+    New functionalities :
+    - new background in the settings menus
+    - SMS/image MMS integrated menu
 
 Credits
 -----

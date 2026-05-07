@@ -71,6 +71,14 @@ v3.0 - Messaging system
     - new background in the settings menus
     - SMS/image MMS integrated menu
 
+v3.0 - Messaging system
+
+    Bugfix
+    New functionalities :
+    - create a new thread
+    - open a thread through contact list
+    - add a new contact / delete a contact
+
 Credits
 -----
 

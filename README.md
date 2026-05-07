@@ -64,7 +64,7 @@ v2.0 - Quick menu
     - quick menu
     - customization of the quick menu
 
-v3.0 - Quick menu
+v3.0 - Messaging system
 
     Bugfix
     New functionalities :

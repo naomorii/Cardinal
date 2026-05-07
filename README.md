@@ -71,7 +71,7 @@ v3.0 - Messaging system
     - new background in the settings menus
     - SMS/image MMS integrated menu
 
-v3.0 - Messaging system
+v3.1 - Messaging system
 
     Bugfix
     New functionalities :

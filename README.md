@@ -1,4 +1,4 @@
-NAO Launcher
+CARDINAL
 =====
 
 <img src="https://github.com/user-attachments/assets/1fca4d38-b4de-4482-a3c7-b3eb7f5061cb" width="100" />

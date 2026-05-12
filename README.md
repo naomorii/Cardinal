@@ -79,6 +79,15 @@ v3.1 - Messaging system
     - open a thread through contact list
     - add a new contact / delete a contact
 
+v4.0 - Phone system
+
+    Bugfix
+    New functionalities :
+    - phone integrated menu
+    - call a contact through contact list
+    - add a new contact / delete a contact
+    - call history
+
 Credits
 -----
 

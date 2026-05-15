@@ -88,6 +88,10 @@ v4.0 - Phone system
     - add a new contact / delete a contact
     - call history
 
+v4.1 - Phone system
+
+    Bugfix
+
 Credits
 -----
 
